@@ -220,7 +220,7 @@
     kubectl apply -f batch-job.yaml
     kubectl logs job/batch-job
 
-###### Crie um Horizontal Pod Autoscaler para um Deployment chamado "hpa-deployment" e configure-o para escalar com base no uso de CPU. Aumente a carga e observe o escalonamento.
+* ##### Crie um Horizontal Pod Autoscaler para um Deployment chamado "hpa-deployment" e configure-o para escalar com base no uso de CPU. Aumente a carga e observe o escalonamento.
 
 ###### Arquivo YAML: hpa-deployment.yaml
 
