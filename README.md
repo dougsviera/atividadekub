@@ -330,21 +330,3 @@
     kubectl apply -f restart-pod.yaml
     kubectl describe pod restart-pod
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# atividadekub
-# atividadekub
